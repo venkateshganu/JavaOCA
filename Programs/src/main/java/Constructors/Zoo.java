@@ -1,4 +1,4 @@
-package Constr;
+package Constructors;
 
 public class Zoo {
     int[] a = {1,2,3,4};

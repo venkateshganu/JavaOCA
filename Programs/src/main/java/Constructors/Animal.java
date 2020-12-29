@@ -1,4 +1,4 @@
-package Constr;
+package Constructors;
 
 public class Animal {
 
