@@ -1,4 +1,4 @@
-package ErrorsAndExceptions.p1;
+package Strings.p1;
 
 class Base {
     int id = 1000; //Line n1

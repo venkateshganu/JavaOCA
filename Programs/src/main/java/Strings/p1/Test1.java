@@ -1,4 +1,4 @@
-package ErrorsAndExceptions.p1;
+package Strings.p1;
 //
 // class Test2 {
 //    public static void main(String[] args) {

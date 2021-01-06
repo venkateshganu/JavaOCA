@@ -1,4 +1,4 @@
-package ErrorsAndExceptions.p1;
+package Strings.p1;
 
 class Message {
     String msg = "LET IT GO!";

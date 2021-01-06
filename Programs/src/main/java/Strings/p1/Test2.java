@@ -1,6 +1,5 @@
-package ErrorsAndExceptions.p1;
+package Strings.p1;
 
-import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 

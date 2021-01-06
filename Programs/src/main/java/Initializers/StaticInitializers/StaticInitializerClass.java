@@ -4,9 +4,10 @@ package Initializers.StaticInitializers;
 class StaticInitializerClass
 {
 
-    static{
-        System.out.println("Static Initializer block");
-    }
+//    static{
+//
+//        System.out.println("Static Initializer block");
+//    }
 
     StaticInitializerClass()
     {
@@ -14,6 +15,7 @@ class StaticInitializerClass
     }
     public static void main(String[] args)
     {
+        int a = 5/0;
 //        StaticInitializerClass a = new StaticInitializerClass();
     }
 }
